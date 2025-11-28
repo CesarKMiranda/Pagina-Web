@@ -19,13 +19,13 @@ Este proyecto representa un momento muy importante, ya que es mi primer document
 
 Se ha utilizado exclusivamente código HTML5 plano para la estructura. Esto significa que los componentes se basan en etiquetas fundamentales como:
 
-Estructura Base: <!DOCTYPE html>, <html>, <head>, <body>.
+Estructura Base: !DOCTYPE html, html, head, body
 
-Contenido: <h1>, <h2>, <p>, <a> (enlaces), <img> (imágenes).
+Contenido: h1, h2, p, a, img
 
-Listas: <ul> y <li>.
+Listas: ul y li
 
-Nota Importante: Este proyecto no incluye CSS (para estilos) ni JavaScript (para interactividad), ya que el objetivo era dominar primero la estructura pura de HTML
+Nota Importante: Este proyecto no incluye CSS ni JavaScript, ya que el objetivo era dominar primero la estructura pura de HTML
 
 ### Instrucciones de uso
 
